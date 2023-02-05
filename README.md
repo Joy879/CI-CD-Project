@@ -1,11 +1,7 @@
-We are archiving this repository because we do not want learners to push personal development to the current repository. If you have any issues or suggestions to make, feel free to:
-- Utilize the https://knowledge.udacity.com/ forum to seek help on content-specific issues.
-- [Submit a support ticket](https://udacity.zendesk.com/hc/en-us/requests/new) along with the link to your forked repository. 
-- If you are an enterprise learner, please [Submit a support ticket here](https://udacityenterprise.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000279131)
 
 ## Give your Application Auto-Deploy Superpowers
 
-In this project, you will prove your mastery of the following learning objectives:
+This project is meant to prove mastery of the following learning objectives:
 
 - Explain the fundamentals and benefits of CI/CD to achieve, build, and deploy automation for cloud-based software products.
 - Utilize Deployment Strategies to design and build CI/CD pipelines that support Continuous Delivery processes.
@@ -22,9 +18,8 @@ In this project, you will prove your mastery of the following learning objective
 * [Configuration Management](instructions/3-configuration-management.md)
 * [Turn Errors into Sirens](instructions/4-turn-errors-into-sirens.md)
 
-### Project Submission
+### Project Submissions
 
-For your submission, please submit the following:
 
 - A text file named `urls.txt` including:
   1. Public Url to GitHub repository (not private) [URL01]
