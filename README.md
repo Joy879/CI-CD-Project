@@ -1,3 +1,5 @@
+[![Joy879](https://circleci.com/gh/Joy879/CI-CD-Project.svg?style=svg)](https://circleci.com/gh/Joy879/CI-CD-Project)
+
 
 ## Give your Application Auto-Deploy Superpowers
 
